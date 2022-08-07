@@ -334,7 +334,12 @@ function url_group21(selected_Host){
        
         if (Selected == -1) {
           content = <>
-          <div>아무것도 호스트 등록한게 없어용</div>
+           <div className='mb-3'>
+                <Link to = "/ServerAdd">
+                  <Button variant="dark" style = {{borderRadius: '30px', fontWeight : 'bold'}}>서버 추가하기</Button> 
+                </Link>
+                <Button variant="dark" onClick = {function(){log_out()}} style = {{borderRadius: '30px', fontWeight : 'bold', textAlign : 'right', float : 'right'}}>로그아웃</Button>
+            </div>
           </>
         }
         else if( Selected == 0 || Selected == "ALL" ){ // Selected에서 선택된것이 ALL인경우 (All이 selectbox에서 0번 인덱스이기 때문)
@@ -344,7 +349,7 @@ function url_group21(selected_Host){
                   <Button variant="dark" style = {{borderRadius: '30px', fontWeight : 'bold'}}>서버 추가하기</Button> 
                 </Link>
                 <Button variant="dark" onClick = {function(){log_out()}} style = {{borderRadius: '30px', fontWeight : 'bold', textAlign : 'right', float : 'right'}}>로그아웃</Button>
-            </div>
+          </div>
 
             <div>
               <label style ={{fontWeight:'bold', fontSize:'25px', marginRight : '20px', marginTop:'10px', marginBottom : '10px'}}>호스트 목록</label>
