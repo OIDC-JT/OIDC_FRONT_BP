@@ -23,7 +23,7 @@ let json;
     
     let list_data = {username:Username, email:Email, password:Password};
 
-    await axios.post('http://192.168.2.7:8000/accounts/login/', list_data) // post 조건이 완전히 완료될때까지 기다리라는 await
+    await axios.post('http://175.45.201.194:8080/accounts/login/', list_data) // post 조건이 완전히 완료될때까지 기다리라는 await
             .then(response => {
               console.log(response)
               localStorage.setItem("logInUserId", response.data.user.username); // 현재 로그인한 유저 누군지 설정
@@ -46,7 +46,7 @@ let json;
 
     async function log_out(){  //로그아웃
         let data = {refresh : localStorage.getItem("refresh")} 
-        await axios.post('http://192.168.2.7:8000/accounts/logout/', data)
+        await axios.post('http://175.45.201.194:8080/accounts/logout/', data)
         .then(response => {
             localStorage.clear("logInUserId")
             localStorage.clear("auth")
@@ -63,7 +63,7 @@ let json;
     async function getSecurity() { // json을 받아서 화면에 parsing해주는 함수!
       const username = localStorage.getItem("logInUserId");
       const data = {"username" : username}
-      await axios.post('http://175.45.201.114:8080/securitytxt/', data)
+      await axios.post('http://175.45.195.212:8080/securitytxt/', data)
         .then(response => {
              //let dummyJson =  [{ "hostname": "abc1",  "virus" : "", "virus_sum" : "0" }, {"hostname" : "abc2", "virus" : "virus1,virus2" ,"virus_sum" : "2" }, { "hostname": "abc3", "virus" : "virus3,virus4,virus5", "virus_sum" : "3" }, { "hostname": "abc4", "virus" : "",  "virus_sum" : "0"}]; //더미데이터
              let dummyJson = (response.data);
