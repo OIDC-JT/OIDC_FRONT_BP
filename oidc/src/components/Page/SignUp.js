@@ -28,7 +28,7 @@ async function makeUser(){ // await 사용하기위해 async 사용
               })
               .catch(err => {
                 console.log(err);
-                alert('회원가입이 실패하였습니다.');
+                alert('회원가입이 실패하였습니다..');
                 window.location.href = "/Dashboard";
               })
     }
