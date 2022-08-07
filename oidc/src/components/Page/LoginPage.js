@@ -21,17 +21,22 @@ async function SelectBoXGet() {
             },
             }) 
             .then(response => {
-              const box = response.data.lists  // 받은 데이터를 여기에다가 대입 해줘야한다.
-              box.splice(0, 0, 'ALL'); 
-              localStorage.setItem("box", box);
-              // console.log(Object.keys(box).length); // response.data.lists의 길이를 의미합니다.
-              // console.log(typeof(Object.values(box))); //response.data.lists의 values 값만 포함된 
-              localStorage.setItem("selectHost", "ALL"); 
-                   for (let i = 0; i < box.length; i++) {
-                  $("#host_box").append("<option value='"+ box[i] +"'>"+ box[i] + "</option>"); 
-                }
-              localStorage.setItem("numHost", box.length)  
-              console.log(localStorage.getItem("numHost"))
+              const box = response.data.lists 
+              if (box.length == 0) {
+
+              }
+              
+              else {
+                box.splice(0, 0, 'ALL'); 
+                // console.log(Object.keys(box).length); // response.data.lists의 길이를 의미합니다.
+                // console.log(typeof(Object.values(box))); //response.data.lists의 values 값만 포함된 
+                localStorage.setItem("selectHost", "ALL"); 
+                     for (let i = 0; i < box.length; i++) {
+                    $("#host_box").append("<option value='"+ box[i] +"'>"+ box[i] + "</option>"); 
+                  }
+                localStorage.setItem("numHost", box.length)  
+                console.log(localStorage.getItem("numHost"))
+              }
             })
             .catch(err => {        
               console.log(err);
@@ -273,7 +278,7 @@ function url_group21(selected_Host){
   
   function Logged_in(){  // 로그인 여부를 판단하는 메인
 
-    const [Selected, setSelected] = useState(0);
+    const [Selected, setSelected] = useState(-1);
 
     const handleSelect = (e) => { // selectbox에서 handleSelect를 줬습니다.
       setSelected(e.target.value); // 사용자가 선택한 select 항목을 setSelected를 통해 Selected에 담아줍니다.
@@ -327,7 +332,12 @@ function url_group21(selected_Host){
       }
       else if(localStorage.getItem("auth") != null){
        
-        if( Selected == 0 || Selected == "ALL" ){ // Selected에서 선택된것이 ALL인경우 (All이 selectbox에서 0번 인덱스이기 때문)
+        if (Selected == -1) {
+          content = <>
+          <div>아무것도 호스트 등록한게 없어용</div>
+          </>
+        }
+        else if( Selected == 0 || Selected == "ALL" ){ // Selected에서 선택된것이 ALL인경우 (All이 selectbox에서 0번 인덱스이기 때문)
           content = <>
           <div className='mb-3'>
                 <Link to = "/ServerAdd">
@@ -370,7 +380,7 @@ function url_group21(selected_Host){
           </>
           return content;
         }
-        else{ // Selected에서 선택된 것이 dongguk인 경우 (dongguk이 selectbox에서 인덱스가 1이기 때문)
+        else if (Selected != 0 || Selected != "ALL" || Selected != -1){ // Selected에서 선택된 것이 dongguk인 경우 (dongguk이 selectbox에서 인덱스가 1이기 때문)
                                  // host 개수에 따라서 이제 else if문이 끊임없이 증가하게 되는데 이건 고민해 봐야할꺼같아요,,
         const selected_Host = $("#host_box option:selected").val();                        
         content = <>

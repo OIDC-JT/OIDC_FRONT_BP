@@ -19,8 +19,8 @@ async function makeServer(){ // await 사용하기위해 async 사용
     console.log(ServerType)
     console.log(ServerName)
     console.log(localStorage.getItem('auth'))
-    let list_data = {servertype:ServerType, servername:ServerName}; // JSON으로 전달
-
+    let list_data = {servertype:ServerType, servername:ServerName}; // JSON으로 전달4
+   
     await axios.post('http://175.45.201.194:8080/serveradd/', list_data,{
         headers: {Authorization: `${localStorage.getItem('auth')}`}, 
         }) // ServerAdd라는 url을 임시적으로 지정해봤습니다.
@@ -34,7 +34,7 @@ async function makeServer(){ // await 사용하기위해 async 사용
             .catch(err => {        
               console.log(err);
               alert('서버 추가에 실패하였습니다.');
-              window.location.replace(); //실패했을 때, 오류메세지와 함께 새로고침하도록 수정해야함.
+              window.location.reload(); //실패했을 때, 오류메세지와 함께 새로고침하도록 수정해야함.
             })
     }
 

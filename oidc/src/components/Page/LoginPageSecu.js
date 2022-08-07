@@ -108,8 +108,7 @@ let json;
              }  
         })
         .catch(err => { 
-          alert("error가 발생하였습니다. 시작화면으로 돌아갑니다.")
-          window.location.href = '/';
+          alert("error가 발생하였습니다.")
         })
     }
     
