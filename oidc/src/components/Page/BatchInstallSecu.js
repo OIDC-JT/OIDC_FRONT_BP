@@ -16,7 +16,8 @@ import $ from "jquery";
          let content = <>
          <Card style={{ width: '80rem', height: '40rem', display: 'flex', position: 'relative', }}>
             <Card.Body style = {{position: 'absolute', top:'50%', left:'50%', transform: 'translate(-50%, -50%)'}}>
-              <Card.Title style = {{textAlign : 'center', fontWeight: 'bold', fontSize : '30px', marginBottom : '15px', width : '1200px'}}>추가하려는 Server에 아래 명령어를 순서대로 입력하여 batch 파일을 서버에 다운로드/실행해주세요.</Card.Title>
+              <Card.Title style = {{textAlign : 'center', fontWeight: 'bold', fontSize : '30px', marginBottom : '15px', width : '1200px'}}>추가하려는 Server에 아래 명령어를 순서대로 입력하여</Card.Title>
+              <Card.Title style = {{textAlign : 'center', fontWeight: 'bold', fontSize : '30px', marginBottom : '15px', width : '1200px'}}>batch 파일을 서버에 다운로드/실행해주세요.</Card.Title>
               <div style = {{textAlign : 'center', fontWeight: 'bold', fontSize : '20px', marginBottom : '15px', width : '1200px', color: 'red'}}>(+Allow in from 'Your IP' to 'Zabbix Proxy IP' proto tcp port 10050)</div>
               <div style = {{textAlign : 'center', fontWeight: 'bold', fontSize : '20px', marginBottom : '15px', width : '1200px', color: 'red'}}>(+Allow out from 'Zabbix Proxy IP' to 'Your IP' proto tcp port 10050)</div>
               <hr></hr> 
@@ -67,12 +68,13 @@ import $ from "jquery";
         else {
 
             let content = <>
-            <Card style={{ width: '80rem', height: '40rem', display: 'flex', position: 'relative', }}>
-               <Card.Body style = {{position: 'absolute', top:'50%', left:'50%', transform: 'translate(-50%, -50%)'}}>
-                 <Card.Title style = {{textAlign : 'center', fontWeight: 'bold', fontSize : '30px', marginBottom : '15px', width : '1200px'}}>추가하려는 Server에 아래 명령어를 순서대로 입력하여 batch 파일을 서버에 다운로드/실행해주세요.</Card.Title>
-                 <div style = {{textAlign : 'center', fontWeight: 'bold', fontSize : '20px', marginBottom : '15px', width : '1200px', color: 'red'}}>(+Allow in from 'Your IP' to 'Zabbix Proxy IP' proto tcp port 10050)</div>
+              <Card style={{ width: '80rem', height: '40rem', display: 'flex', position: 'relative', }}>
+            <Card.Body style = {{position: 'absolute', top:'50%', left:'50%', transform: 'translate(-50%, -50%)'}}>
+              <Card.Title style = {{textAlign : 'center', fontWeight: 'bold', fontSize : '30px', marginBottom : '15px', width : '1200px'}}>추가하려는 Server에 아래 명령어를 순서대로 입력하여</Card.Title>
+              <Card.Title style = {{textAlign : 'center', fontWeight: 'bold', fontSize : '30px', marginBottom : '15px', width : '1200px'}}>batch 파일을 서버에 다운로드/실행해주세요.</Card.Title>
+              <div style = {{textAlign : 'center', fontWeight: 'bold', fontSize : '20px', marginBottom : '15px', width : '1200px', color: 'red'}}>(+Allow in from 'Your IP' to 'Zabbix Proxy IP' proto tcp port 10050)</div>
               <div style = {{textAlign : 'center', fontWeight: 'bold', fontSize : '20px', marginBottom : '15px', width : '1200px', color: 'red'}}>(+Allow out from 'Zabbix Proxy IP' to 'Your IP' proto tcp port 10050)</div>
-                 <hr></hr> 
+              <hr></hr> 
                  <>
                    <div classname="mb-3" style = {{textAlign:'center'}}>
                        <label style = {{fontWeight : 'bold', fontSize : '20px', marginBottom : '5px', width : '1200px' }}>1. wget -O https://kr.object.ncloudstorage.com/oidc-security/{localStorage.getItem("logInUserId") + "_" + localStorage.getItem("batchsecu")}_cInt.c </label> 
