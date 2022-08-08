@@ -108,7 +108,7 @@ let json;
              }  
         })
         .catch(err => { 
-          alert("error가 발생하였습니다.")
+      
         })
     }
     
