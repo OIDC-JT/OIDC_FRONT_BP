@@ -78,7 +78,14 @@ else{
                     <label style = {{fontWeight : 'bold', fontSize : '20px', marginBottom : '5px'}}>3. ./{localStorage.getItem("batch")}.bat</label>
                 </div>
                 <br></br>
-                <h6 style={{color:"red"}}>반드시 배치파일을 다운로드 및 실행한 이후에 완료버튼을 클릭해주세요. (완료버튼 클릭 후 모니터링 등록시간이 30초~5분 가량 소요됩니다.)</h6>
+                <div style = {{textAlign:'center', marginBottom : '3px'}}>
+                <h6 style={{fontWeight : 'bold', fontSize : '20px', marginBottom : '5px', color: "red" }}>반드시 배치파일을 다운로드 및 실행한 이후에 완료버튼을 클릭해주세요. </h6>
+                </div>
+
+                <div style = {{textAlign:'center',marginBottom : '5px'}}>
+                 <h6 style={{fontWeight : 'bold', fontSize : '20px', marginBottom : '5px', color: "red" }}>(완료버튼 클릭 후 모니터링 등록시간이 30초~5분 가량 소요됩니다.)</h6>
+                </div>
+
                 <div classname="d-grid" style={{textAlign : 'center'}}>
                     <span></span>
                     <Link to = "/ServerAdd">
