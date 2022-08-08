@@ -340,7 +340,7 @@ function url_group21(selected_Host){
               </select>
         </div>
 
-         <Card style={{ width: '100rem', height: '40rem', display: 'flex', position: 'relative', }}>
+         <Card style={{ width: '80rem', height: '40rem', display: 'flex', position: 'relative', }}>
          <Card.Body style = {{position: 'absolute', top:'50%', left:'50%', transform: 'translate(-50%, -50%)'}}>
            <Card.Title style = {{textAlign : 'center', fontWeight: 'bold', fontSize : '45px', marginBottom : '15px', width : '800px'}}>Monitoring Dashboard</Card.Title>
            <hr></hr> 
@@ -574,9 +574,9 @@ function LoginPage() {
                 <div id="layoutSidenav_content">
                     <main>
                     <div class="container-fluid px-4">
-                        <h1 class="mt-4">Login</h1>
+                        <h1 class="mt-4">Dashboard</h1>
                         <ol class="breadcrumb mb-4">
-                            <li class="breadcrumb-item active">로그인</li>
+                            <li class="breadcrumb-item active">Cloud monitoring</li>
                         </ol>
                         {content}
                         <br></br>

@@ -198,7 +198,9 @@ function MigHelper() {
         </article>
     }
     else{
-        content = <article>위 항목을 먼저 선택해주세요.</article>
+        content = <>
+        <div style = {{marignTop : '20px', fontWeight:'bold'}}>위 항목을 먼저 선택해주세요.</div>
+        </>
     }
 
    
@@ -281,11 +283,11 @@ function MigHelper() {
                         <ol class="breadcrumb mb-4">
                             <li class="breadcrumb-item active">Migration Helper</li>
                         </ol>
-                        <div>
+                        <div style={{fontWeight : 'bold', fontSize: '20px'}}>
                            원하는 Cloud Service Provider를 선택해주세요.
                         </div>
-                     <SelectBox id = 'select' options={OPTIONS} value={OPTIONS.value} selected={OPTIONS.id === OPTIONS.value} ></SelectBox>
-                        <div>
+                         <SelectBox id = 'select' options={OPTIONS} value={OPTIONS.value} selected={OPTIONS.id === OPTIONS.value} ></SelectBox>
+                        <div style = {{fontWeight : 'bold', fontSize : '15px'}}>
                             사용 중인 서버의 환경을 입력해주세요.
                         </div>
                         {content} 
