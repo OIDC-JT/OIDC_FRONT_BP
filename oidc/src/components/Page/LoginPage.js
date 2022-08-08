@@ -38,25 +38,25 @@ async function SelectBoXGet() {
 
 function all_url1(){
   let url = "http://175.45.201.72:3000/d-solo/zEgAqHQnz/monitoring?orgId=1&refresh=30s&var-Grupo="
-  url = url + localStorage.getItem("logInUserId") + "&var-Server=All&theme=dark&panelId=22&from=now-7d&to=now"
+  url = url + localStorage.getItem("logInUserId") + "&var-Server=All&theme=dark&panelId=22&from=now-24h&to=now"
 
   return url;
 }
 function all_url2(){
   let url = "http://175.45.201.72:3000/d-solo/zEgAqHQnz/monitoring?orgId=1&refresh=30s&var-Grupo="
-  url = url + localStorage.getItem("logInUserId") + "&var-Server=All&theme=dark&panelId=40&from=now-7d&to=now"
+  url = url + localStorage.getItem("logInUserId") + "&var-Server=All&theme=dark&panelId=40&from=now-24h&to=now"
   
   return url;
 }  
 function all_url3(){
   let url = "http://175.45.201.72:3000/d-solo/zEgAqHQnz/monitoring?orgId=1&refresh=30s&var-Grupo="
-  url = url + localStorage.getItem("logInUserId") + "&var-Server=All&theme=dark&panelId=42&from=now-7d&to=now"
+  url = url + localStorage.getItem("logInUserId") + "&var-Server=All&theme=dark&panelId=42&from=now-24h&to=now"
   
   return url;
 }  
 function all_url4(){
   let url = "http://175.45.201.72:3000/d-solo/zEgAqHQnz/monitoring?orgId=1&refresh=30s&var-Grupo="
-  url = url + localStorage.getItem("logInUserId") + "&var-Server=All&theme=dark&panelId=44&from=now-7d&to=now"
+  url = url + localStorage.getItem("logInUserId") + "&var-Server=All&theme=dark&panelId=44&from=now-24h&to=now"
   console.log(url)
   return url;
 }      
