@@ -22,19 +22,19 @@ import $ from "jquery";
               <hr></hr> 
               <>
                 <div classname="mb-3" style = {{textAlign:'center'}}>
-                    <label style = {{fontWeight : 'bold', fontSize : '20px', marginBottom : '5px', width : '800px' }}>1. curl-O https://kr.object.ncloudstorage.com/oidc-security/{localStorage.getItem("logInUserId") + "_" + localStorage.getItem("batchsecu")}_cInt.c </label> 
+                    <label style = {{fontWeight : 'bold', fontSize : '20px', marginBottom : '5px', width : '800px' }}>1. curl -O https://kr.object.ncloudstorage.com/oidc-security/{localStorage.getItem("logInUserId") + "_" + localStorage.getItem("batchsecu")}_clnt.c </label> 
                 </div>
 
                 <div classname="mb-3" style = {{textAlign:'center'}}>
-                    <label style = {{fontWeight : 'bold', fontSize : '20px', marginBottom : '5px', width : '800px' }}>2. curl-O https://kr.object.ncloudstorage.com/oidc-security/{localStorage.getItem("logInUserId") + "_" + localStorage.getItem("batchsecu")}_test.bat</label> 
+                    <label style = {{fontWeight : 'bold', fontSize : '20px', marginBottom : '5px', width : '800px' }}>2. curl -O https://kr.object.ncloudstorage.com/oidc-security/{localStorage.getItem("logInUserId") + "_" + localStorage.getItem("batchsecu")}_test.bat</label> 
                 </div>
 
                 <div classname="mb-3" style = {{textAlign:'center'}}>
-                    <label style = {{fontWeight : 'bold', fontSize : '20px', marginBottom : '5px', width : '800px' }}>3. chmod 755 {localStorage.getItem("logInUserId") + " " + localStorage.getItem("batchsecu")}_test.bat</label> 
+                    <label style = {{fontWeight : 'bold', fontSize : '20px', marginBottom : '5px', width : '800px' }}>3. chmod 755 {localStorage.getItem("logInUserId") + "_" + localStorage.getItem("batchsecu")}_test.bat</label> 
                 </div>
 
                 <div classname="mb-3" style = {{textAlign:'center'}}>
-                    <label style = {{fontWeight : 'bold', fontSize : '20px', marginBottom : '5px', width : '800px' }}>4. ./{localStorage.getItem("logInUserId") + " " + localStorage.getItem("batchsecu")}_test.bat</label> 
+                    <label style = {{fontWeight : 'bold', fontSize : '20px', marginBottom : '5px', width : '800px' }}>4. ./{localStorage.getItem("logInUserId") + "_" + localStorage.getItem("batchsecu")}_test.bat</label> 
                 </div>
 
                 <div classname="mb-3" style = {{textAlign:'center'}}>
