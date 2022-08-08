@@ -63,11 +63,11 @@ let json;
     async function getSecurity() { // json을 받아서 화면에 parsing해주는 함수!
       const username = localStorage.getItem("logInUserId");
       const data = {"username" : username}
-      await axios.post('http://175.45.195.212:7000/securitytxt/', data)
+      await axios.post('http://175.45.195.212:8080/securitytxt/', data)
         .then(response => {
              //let dummyJson =  [{ "hostname": "abc1",  "virus" : "", "virus_sum" : "0" }, {"hostname" : "abc2", "virus" : "virus1,virus2" ,"virus_sum" : "2" }, { "hostname": "abc3", "virus" : "virus3,virus4,virus5", "virus_sum" : "3" }, { "hostname": "abc4", "virus" : "",  "virus_sum" : "0"}]; //더미데이터
              let dummyJson = (response.data);
-            
+             
              json = dummyJson;
            
              localStorage.setItem("JSON", JSON.stringify(dummyJson));
