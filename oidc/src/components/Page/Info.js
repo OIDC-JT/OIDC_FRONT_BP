@@ -27,21 +27,30 @@ function Info(){
                             <p1>안녕하세요. 제 4회 OIDC에 참가한 팀 정통입니다.</p1>
                             <br></br>
                             <p1>팀 정통이 해당 서비스를 제공하고자 하는 목적은 다음과 같습니다.</p1>
+                            <br></br>          
+                            <p1>개인이나 기업에게 웹 사이트를 통해 접근하기 쉽고, 비용면에서 유리하며, 편리하게 서버 개발 설계, 모니터링, 보안 점검을 할 수 있도록 하는 3가지 Service를 client에게 제공하고자 합니다.</p1>
+                            <br></br>
+                            <br></br>   
+                            <p1>첫 번째 Service는 개인이나 기업이 새롭게 Cloud Server를 도입하려 하거나, 이미 On-Premise에서 사용중인 Server를 Cloud로 Migration 하려할 때, </p1>
+                            <br></br>
+                            <p1>Client가 입력한 IaaS 환경을 바탕으로 CSP별 적합한 Server 환경을 추천해주며 규모와 비용 산정에 도움을 줄 수 있는 Server Migration Helper Service입니다.</p1>
                             <br></br>
                             <br></br>
-                            <p1>많은 기업들이 기존의 On-premise 환경을 Cloud 환경으로 Lift and Shift를 진행하고 있고, 이러한 migration을 위해 많은 기업들이 MSP 기업이나 Cloud 전문가에게 거액의 돈을 주고 migration을 의뢰하여 진행하고 있습니다. 이러한 돈이 부담되는 migration 의뢰를 MSP 기업의 도움 없이, 기업이 직접 웹서비스를 활용하여 기업이 보유한 자원에 따른 Cloud 서버 및 규모와 비용 산정에 도움 주고자 함이 목적입니다.</p1>
+                            <p1>두 번째 Service는 client가 IaaS 리소스와 워크로드에 대해 모니터링을 하고자 할 때, 시중에 사용되는 모니터링 Tool과는 다르게 많은 시간과 지식이 필요한 별도의 Server 구축이나, 모니터링 Tool의 설치 및 설정 없이,</p1>
                             <br></br>
-                            <p1>또한 Cloud를 이용하는 기업의 경우, CSP에서 제공하는 Console을 활용해 Cloud 내에서 진행되는 워크로드들을 일일히 확인해야 하는데, 현재 Cloud 내에서 진행되는 워크로드를 한 눈으로 모니터링 할 수 있는 대시보드를 제공하여 일일히 모든 서비스를 확인해야 하는 번거로움을 줄이고, 보안 취약점을 제시하여 기업의 Cloud 환경의 보안을 강화 하고자 함이 목적입니다.</p1>
+                            <p1>웹 사이트에서 로그인 후, 모니터링 할 서버에 batch 파일을 다운로드하고 실행하기만 하면 쉽고 빠르게 원하는 서버들에 대해 전체적으로 한 눈에 또는 세부적으로 하나의 서버에 대해 모니터링 할 수 있는 IaaS Hybrid Cloud Monitoring Service입니다.</p1>
                             <br></br>
                             <br></br>
-                            <p1>우리가 제공하는 서비스는 아래와 같습니다.</p1>
+                            <p1>세 번째 Service는 두번째 service와 마찬가지로 별도의 보안프로그램 설치 및 설정 없이, 원하는 서버에 batch 파일을 다운로드하고 실행함으로써,</p1>
+                            <br></br>
+                            <p1>매일 00시마다 자동적으로 Server에 Virus 검사를 진행하고 검사가 끝남에 따라 최신화 된 검사결과와 세부 정보를 웹사이트에서 확인할 수 있는 IaaS Security Management Service입니다.</p1>
                             <br></br>
                             <br></br>
                             <ul>
-                                <li>MigHelper : 클라우드로의 마이그레이션 시 솔루션 제공</li>
-                                <li>Create Server Helper : 원하는 사양에 맞는 클라우드 추천</li>
-                                <li>Dashboard : 로그인 후 이용가능한 기능으로 자신의 클라우드 상태를 확인할 수 있는 대시보드 제공</li>
-                                <li>Plus 기능 : 보안 거버넌스 제공</li>
+                                <li>Migration Helper : 이미 On-Premise에서 사용중인 Server를 Cloud로 Migration 하려할 때 사용하는 Server Migration Helper</li>
+                                <li>Server Create Helper : 새롭게 Cloud Server를 도입하려 할 때 사용하는 Server Migration Helper Service</li>
+                                <li>Dashboard : 웹서비스를 사용하여 IaaS 리소스와 워크로드에 대해 모니터링을 할 수 있는 IaaS Hybrid Cloud Monitoring Service</li>
+                                <li>Security : 웹서비스를 사용하여 서버에 대한 Virus 검사를 실시하고 결과를 확인할 수 있는 IaaS Security Management Service</li>
                             </ul>
                         </div>
                     </main>
