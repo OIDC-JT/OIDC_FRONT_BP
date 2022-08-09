@@ -264,6 +264,7 @@ function CreateServer(){
                             <SelectBox id = 'select' options={OPTIONS}  value={OPTIONS.value} selected={OPTIONS.id === OPTIONS.value} ></SelectBox>
                         <div style = {{fontWeight:'bold', fontSize : '15px'}}>
                             사용 중인 서버의 환경을 입력해주세요.
+                            <p1 style = {{color:'red', fontSize: '20px'}}> (linux 기준)</p1> 
                         </div>
                             {content}
                         </div>
