@@ -51,7 +51,7 @@ if(localStorage.getItem("batchOS") == 'Centos7' || localStorage.getItem("batchOS
                 <div classname="d-grid" style={{textAlign : 'center'}}>
                     <span></span>
                     <Link to = "/LoginPage">
-                        <Button variant="dark" style = {{borderRadius: '30px', fontWeight : 'bold', marginTop:'10px', width:'200px'}}>완 료</Button> 
+                        <Button variant="dark" style = {{borderRadius: '30px', fontWeight : 'bold', marginTop:'10px', width:'200px', marginBottom : '20px'}}>완 료</Button> 
                     </Link>
                 </div>
                 <div style = {{textAlign : 'center', fontWeight: 'bold', fontSize : '20px', marginBottom : '15px', width : '800px', color: 'red'}}>(+Allow in from 'Your IP' to 175.45.201.149 proto tcp port 10050)</div>
