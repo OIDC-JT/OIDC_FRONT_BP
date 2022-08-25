@@ -382,17 +382,17 @@ function url_group21(selected_Host){
             <iframe id='frame2' className='iframe_small'
                src = {all_url2()}
                width="300px"
-               height="200px"
+               height="350px"
             ></iframe>
              <iframe id='frame3' className='iframe_small'
                src = {all_url3()}
                width="300px"
-               height="200px"
+               height="350px"
             ></iframe>
              <iframe id='frame4' className='iframe_small'
                src = {all_url4()}
                width="300px"
-               height="200px"
+               height="350px"
             ></iframe>
             </div>
           </>
@@ -511,17 +511,14 @@ function url_group21(selected_Host){
             </div>
             <br></br>
             <div className='grafana'>
-            <iframe id='frame16' className='iframe_small'
+            
+            <iframe id='frame16' className='iframe_mid'
                src = {url_group16(selected_Host)}
                width="300px"
                height="200px"
             ></iframe>
-            <iframe id='frame17' className='iframe_small'
-               src = {url_group17(selected_Host)}
-               width="300px"
-               height="200px"
-            ></iframe>
-            <iframe id='frame18' className='iframe_small'
+            
+            <iframe id='frame18' className='iframe_mid'
                src = {url_group18(selected_Host)}
                width="300px"
                height="200px"

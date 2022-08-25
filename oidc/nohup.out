@@ -1,0 +1,856 @@
+
+> oidc@0.1.0 start /root/oidc
+> export PORT=3001 && react-scripts start
+
+(node:22470) [DEP_WEBPACK_DEV_SERVER_ON_AFTER_SETUP_MIDDLEWARE] DeprecationWarning: 'onAfterSetupMiddleware' option is deprecated. Please use the 'setupMiddlewares' option.
+(node:22470) [DEP_WEBPACK_DEV_SERVER_ON_BEFORE_SETUP_MIDDLEWARE] DeprecationWarning: 'onBeforeSetupMiddleware' option is deprecated. Please use the 'setupMiddlewares' option.
+Starting the development server...
+
+Compiled with warnings.
+
+Warning
+(6:29521) autoprefixer: Replace color-adjust to print-color-adjust. The color-adjust shorthand is currently deprecated.
+
+Warning
+(2491:11) autoprefixer: Replace color-adjust to print-color-adjust. The color-adjust shorthand is currently deprecated.
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in ./node_modules/bootstrap/dist/css/bootstrap.min.css (./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[1].oneOf[5].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[1].oneOf[5].use[2]!./node_modules/source-map-loader/dist/cjs.js!./node_modules/bootstrap/dist/css/bootstrap.min.css)
+Module Warning (from ./node_modules/postcss-loader/dist/cjs.js):
+Warning
+
+(6:29521) autoprefixer: Replace color-adjust to print-color-adjust. The color-adjust shorthand is currently deprecated.
+
+WARNING in ./src/components/style.css (./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[1].oneOf[5].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[1].oneOf[5].use[2]!./node_modules/source-map-loader/dist/cjs.js!./src/components/style.css)
+Module Warning (from ./node_modules/postcss-loader/dist/cjs.js):
+Warning
+
+(2491:11) autoprefixer: Replace color-adjust to print-color-adjust. The color-adjust shorthand is currently deprecated.
+
+webpack compiled with 2 warnings
+
+> oidc@0.1.0 start /root/oidc
+> export PORT=3001 && react-scripts start
+
+(node:25314) [DEP_WEBPACK_DEV_SERVER_ON_AFTER_SETUP_MIDDLEWARE] DeprecationWarning: 'onAfterSetupMiddleware' option is deprecated. Please use the 'setupMiddlewares' option.
+(node:25314) [DEP_WEBPACK_DEV_SERVER_ON_BEFORE_SETUP_MIDDLEWARE] DeprecationWarning: 'onBeforeSetupMiddleware' option is deprecated. Please use the 'setupMiddlewares' option.
+Starting the development server...
+
+Compiled with warnings.
+
+Warning
+(6:29521) autoprefixer: Replace color-adjust to print-color-adjust. The color-adjust shorthand is currently deprecated.
+
+Warning
+(2491:11) autoprefixer: Replace color-adjust to print-color-adjust. The color-adjust shorthand is currently deprecated.
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in ./node_modules/bootstrap/dist/css/bootstrap.min.css (./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[1].oneOf[5].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[1].oneOf[5].use[2]!./node_modules/source-map-loader/dist/cjs.js!./node_modules/bootstrap/dist/css/bootstrap.min.css)
+Module Warning (from ./node_modules/postcss-loader/dist/cjs.js):
+Warning
+
+(6:29521) autoprefixer: Replace color-adjust to print-color-adjust. The color-adjust shorthand is currently deprecated.
+
+WARNING in ./src/components/style.css (./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[1].oneOf[5].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[1].oneOf[5].use[2]!./node_modules/source-map-loader/dist/cjs.js!./src/components/style.css)
+Module Warning (from ./node_modules/postcss-loader/dist/cjs.js):
+Warning
+
+(2491:11) autoprefixer: Replace color-adjust to print-color-adjust. The color-adjust shorthand is currently deprecated.
+
+webpack compiled with 2 warnings
+
+> oidc@0.1.0 start /root/oidc
+> export PORT=3001 && react-scripts start
+
+(node:26536) [DEP_WEBPACK_DEV_SERVER_ON_AFTER_SETUP_MIDDLEWARE] DeprecationWarning: 'onAfterSetupMiddleware' option is deprecated. Please use the 'setupMiddlewares' option.
+(node:26536) [DEP_WEBPACK_DEV_SERVER_ON_BEFORE_SETUP_MIDDLEWARE] DeprecationWarning: 'onBeforeSetupMiddleware' option is deprecated. Please use the 'setupMiddlewares' option.
+Starting the development server...
+
+Compiled with warnings.
+
+Warning
+(6:29521) autoprefixer: Replace color-adjust to print-color-adjust. The color-adjust shorthand is currently deprecated.
+
+Warning
+(2491:11) autoprefixer: Replace color-adjust to print-color-adjust. The color-adjust shorthand is currently deprecated.
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in ./node_modules/bootstrap/dist/css/bootstrap.min.css (./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[1].oneOf[5].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[1].oneOf[5].use[2]!./node_modules/source-map-loader/dist/cjs.js!./node_modules/bootstrap/dist/css/bootstrap.min.css)
+Module Warning (from ./node_modules/postcss-loader/dist/cjs.js):
+Warning
+
+(6:29521) autoprefixer: Replace color-adjust to print-color-adjust. The color-adjust shorthand is currently deprecated.
+
+WARNING in ./src/components/style.css (./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[1].oneOf[5].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[1].oneOf[5].use[2]!./node_modules/source-map-loader/dist/cjs.js!./src/components/style.css)
+Module Warning (from ./node_modules/postcss-loader/dist/cjs.js):
+Warning
+
+(2491:11) autoprefixer: Replace color-adjust to print-color-adjust. The color-adjust shorthand is currently deprecated.
+
+webpack compiled with 2 warnings
+Compiling...
+Compiled with warnings.
+
+Warning
+(6:29521) autoprefixer: Replace color-adjust to print-color-adjust. The color-adjust shorthand is currently deprecated.
+
+Warning
+(2491:11) autoprefixer: Replace color-adjust to print-color-adjust. The color-adjust shorthand is currently deprecated.
+
+src/components/Page/BatchInstall.js
+  Line 8:8:    'axios' is defined but never used    no-unused-vars
+  Line 12:8:   '$' is defined but never used        no-unused-vars
+  Line 16:36:  Expected '===' and instead saw '=='  eqeqeq
+  Line 16:84:  Expected '===' and instead saw '=='  eqeqeq
+
+src/components/Page/BatchInstallSecu.js
+  Line 8:8:    'axios' is defined but never used    no-unused-vars
+  Line 12:8:   '$' is defined but never used        no-unused-vars
+  Line 15:49:  Expected '===' and instead saw '=='  eqeqeq
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in ./node_modules/bootstrap/dist/css/bootstrap.min.css (./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[1].oneOf[5].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[1].oneOf[5].use[2]!./node_modules/source-map-loader/dist/cjs.js!./node_modules/bootstrap/dist/css/bootstrap.min.css)
+Module Warning (from ./node_modules/postcss-loader/dist/cjs.js):
+Warning
+
+(6:29521) autoprefixer: Replace color-adjust to print-color-adjust. The color-adjust shorthand is currently deprecated.
+
+WARNING in ./src/components/style.css (./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[1].oneOf[5].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[1].oneOf[5].use[2]!./node_modules/source-map-loader/dist/cjs.js!./src/components/style.css)
+Module Warning (from ./node_modules/postcss-loader/dist/cjs.js):
+Warning
+
+(2491:11) autoprefixer: Replace color-adjust to print-color-adjust. The color-adjust shorthand is currently deprecated.
+
+WARNING in src/components/Page/BatchInstall.js
+  Line 8:8:    'axios' is defined but never used    no-unused-vars
+  Line 12:8:   '$' is defined but never used        no-unused-vars
+  Line 16:36:  Expected '===' and instead saw '=='  eqeqeq
+  Line 16:84:  Expected '===' and instead saw '=='  eqeqeq
+
+src/components/Page/BatchInstallSecu.js
+  Line 8:8:    'axios' is defined but never used    no-unused-vars
+  Line 12:8:   '$' is defined but never used        no-unused-vars
+  Line 15:49:  Expected '===' and instead saw '=='  eqeqeq
+
+webpack compiled with 3 warnings
+Compiling...
+Compiled with warnings.
+
+Warning
+(6:29521) autoprefixer: Replace color-adjust to print-color-adjust. The color-adjust shorthand is currently deprecated.
+
+Warning
+(2491:11) autoprefixer: Replace color-adjust to print-color-adjust. The color-adjust shorthand is currently deprecated.
+
+src/components/Page/BatchInstall.js
+  Line 8:8:    'axios' is defined but never used    no-unused-vars
+  Line 12:8:   '$' is defined but never used        no-unused-vars
+  Line 16:36:  Expected '===' and instead saw '=='  eqeqeq
+  Line 16:84:  Expected '===' and instead saw '=='  eqeqeq
+
+src/components/Page/BatchInstallSecu.js
+  Line 8:8:    'axios' is defined but never used    no-unused-vars
+  Line 12:8:   '$' is defined but never used        no-unused-vars
+  Line 15:49:  Expected '===' and instead saw '=='  eqeqeq
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in ./node_modules/bootstrap/dist/css/bootstrap.min.css (./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[1].oneOf[5].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[1].oneOf[5].use[2]!./node_modules/source-map-loader/dist/cjs.js!./node_modules/bootstrap/dist/css/bootstrap.min.css)
+Module Warning (from ./node_modules/postcss-loader/dist/cjs.js):
+Warning
+
+(6:29521) autoprefixer: Replace color-adjust to print-color-adjust. The color-adjust shorthand is currently deprecated.
+
+WARNING in ./src/components/style.css (./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[1].oneOf[5].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[1].oneOf[5].use[2]!./node_modules/source-map-loader/dist/cjs.js!./src/components/style.css)
+Module Warning (from ./node_modules/postcss-loader/dist/cjs.js):
+Warning
+
+(2491:11) autoprefixer: Replace color-adjust to print-color-adjust. The color-adjust shorthand is currently deprecated.
+
+WARNING in src/components/Page/BatchInstall.js
+  Line 8:8:    'axios' is defined but never used    no-unused-vars
+  Line 12:8:   '$' is defined but never used        no-unused-vars
+  Line 16:36:  Expected '===' and instead saw '=='  eqeqeq
+  Line 16:84:  Expected '===' and instead saw '=='  eqeqeq
+
+src/components/Page/BatchInstallSecu.js
+  Line 8:8:    'axios' is defined but never used    no-unused-vars
+  Line 12:8:   '$' is defined but never used        no-unused-vars
+  Line 15:49:  Expected '===' and instead saw '=='  eqeqeq
+
+webpack compiled with 3 warnings
+Compiling...
+Compiled with warnings.
+
+Warning
+(6:29521) autoprefixer: Replace color-adjust to print-color-adjust. The color-adjust shorthand is currently deprecated.
+
+Warning
+(2491:11) autoprefixer: Replace color-adjust to print-color-adjust. The color-adjust shorthand is currently deprecated.
+
+src/components/Page/BatchInstall.js
+  Line 8:8:    'axios' is defined but never used    no-unused-vars
+  Line 12:8:   '$' is defined but never used        no-unused-vars
+  Line 16:36:  Expected '===' and instead saw '=='  eqeqeq
+  Line 16:84:  Expected '===' and instead saw '=='  eqeqeq
+
+src/components/Page/BatchInstallSecu.js
+  Line 8:8:    'axios' is defined but never used    no-unused-vars
+  Line 12:8:   '$' is defined but never used        no-unused-vars
+  Line 15:49:  Expected '===' and instead saw '=='  eqeqeq
+
+src/components/Page/LoginPage.js
+  Line 9:10:    'format' is defined but never used                   no-unused-vars
+  Line 12:8:    'Dashboard' is defined but never used                no-unused-vars
+  Line 328:21:  Expected '===' and instead saw '=='                  eqeqeq
+  Line 358:28:  Expected '===' and instead saw '=='                  eqeqeq
+  Line 375:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 382:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 387:14:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 392:14:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 421:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 426:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 431:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 439:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 444:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 452:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 457:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 462:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 470:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 475:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 480:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 488:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 493:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 501:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 506:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 514:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 519:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 524:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 532:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 537:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 545:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 562:5:   Nested block is redundant                            no-lone-blocks
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in ./node_modules/bootstrap/dist/css/bootstrap.min.css (./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[1].oneOf[5].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[1].oneOf[5].use[2]!./node_modules/source-map-loader/dist/cjs.js!./node_modules/bootstrap/dist/css/bootstrap.min.css)
+Module Warning (from ./node_modules/postcss-loader/dist/cjs.js):
+Warning
+
+(6:29521) autoprefixer: Replace color-adjust to print-color-adjust. The color-adjust shorthand is currently deprecated.
+
+WARNING in ./src/components/style.css (./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[1].oneOf[5].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[1].oneOf[5].use[2]!./node_modules/source-map-loader/dist/cjs.js!./src/components/style.css)
+Module Warning (from ./node_modules/postcss-loader/dist/cjs.js):
+Warning
+
+(2491:11) autoprefixer: Replace color-adjust to print-color-adjust. The color-adjust shorthand is currently deprecated.
+
+WARNING in src/components/Page/BatchInstall.js
+  Line 8:8:    'axios' is defined but never used    no-unused-vars
+  Line 12:8:   '$' is defined but never used        no-unused-vars
+  Line 16:36:  Expected '===' and instead saw '=='  eqeqeq
+  Line 16:84:  Expected '===' and instead saw '=='  eqeqeq
+
+src/components/Page/BatchInstallSecu.js
+  Line 8:8:    'axios' is defined but never used    no-unused-vars
+  Line 12:8:   '$' is defined but never used        no-unused-vars
+  Line 15:49:  Expected '===' and instead saw '=='  eqeqeq
+
+src/components/Page/LoginPage.js
+  Line 9:10:    'format' is defined but never used                   no-unused-vars
+  Line 12:8:    'Dashboard' is defined but never used                no-unused-vars
+  Line 328:21:  Expected '===' and instead saw '=='                  eqeqeq
+  Line 358:28:  Expected '===' and instead saw '=='                  eqeqeq
+  Line 375:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 382:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 387:14:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 392:14:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 421:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 426:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 431:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 439:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 444:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 452:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 457:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 462:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 470:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 475:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 480:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 488:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 493:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 501:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 506:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 514:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 519:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 524:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 532:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 537:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 545:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 562:5:   Nested block is redundant                            no-lone-blocks
+
+webpack compiled with 3 warnings
+Compiling...
+Compiled with warnings.
+
+Warning
+(6:29521) autoprefixer: Replace color-adjust to print-color-adjust. The color-adjust shorthand is currently deprecated.
+
+Warning
+(2491:11) autoprefixer: Replace color-adjust to print-color-adjust. The color-adjust shorthand is currently deprecated.
+
+src/components/Page/BatchInstall.js
+  Line 8:8:    'axios' is defined but never used    no-unused-vars
+  Line 12:8:   '$' is defined but never used        no-unused-vars
+  Line 16:36:  Expected '===' and instead saw '=='  eqeqeq
+  Line 16:84:  Expected '===' and instead saw '=='  eqeqeq
+
+src/components/Page/BatchInstallSecu.js
+  Line 8:8:    'axios' is defined but never used    no-unused-vars
+  Line 12:8:   '$' is defined but never used        no-unused-vars
+  Line 15:49:  Expected '===' and instead saw '=='  eqeqeq
+
+src/components/Page/LoginPage.js
+  Line 9:10:    'format' is defined but never used                   no-unused-vars
+  Line 12:8:    'Dashboard' is defined but never used                no-unused-vars
+  Line 328:21:  Expected '===' and instead saw '=='                  eqeqeq
+  Line 358:28:  Expected '===' and instead saw '=='                  eqeqeq
+  Line 375:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 382:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 387:14:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 392:14:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 421:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 426:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 431:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 439:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 444:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 452:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 457:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 462:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 470:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 475:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 480:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 488:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 493:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 501:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 506:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 514:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 519:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 524:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 532:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 537:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 545:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 562:5:   Nested block is redundant                            no-lone-blocks
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in ./node_modules/bootstrap/dist/css/bootstrap.min.css (./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[1].oneOf[5].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[1].oneOf[5].use[2]!./node_modules/source-map-loader/dist/cjs.js!./node_modules/bootstrap/dist/css/bootstrap.min.css)
+Module Warning (from ./node_modules/postcss-loader/dist/cjs.js):
+Warning
+
+(6:29521) autoprefixer: Replace color-adjust to print-color-adjust. The color-adjust shorthand is currently deprecated.
+
+WARNING in ./src/components/style.css (./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[1].oneOf[5].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[1].oneOf[5].use[2]!./node_modules/source-map-loader/dist/cjs.js!./src/components/style.css)
+Module Warning (from ./node_modules/postcss-loader/dist/cjs.js):
+Warning
+
+(2491:11) autoprefixer: Replace color-adjust to print-color-adjust. The color-adjust shorthand is currently deprecated.
+
+WARNING in src/components/Page/BatchInstall.js
+  Line 8:8:    'axios' is defined but never used    no-unused-vars
+  Line 12:8:   '$' is defined but never used        no-unused-vars
+  Line 16:36:  Expected '===' and instead saw '=='  eqeqeq
+  Line 16:84:  Expected '===' and instead saw '=='  eqeqeq
+
+src/components/Page/BatchInstallSecu.js
+  Line 8:8:    'axios' is defined but never used    no-unused-vars
+  Line 12:8:   '$' is defined but never used        no-unused-vars
+  Line 15:49:  Expected '===' and instead saw '=='  eqeqeq
+
+src/components/Page/LoginPage.js
+  Line 9:10:    'format' is defined but never used                   no-unused-vars
+  Line 12:8:    'Dashboard' is defined but never used                no-unused-vars
+  Line 328:21:  Expected '===' and instead saw '=='                  eqeqeq
+  Line 358:28:  Expected '===' and instead saw '=='                  eqeqeq
+  Line 375:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 382:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 387:14:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 392:14:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 421:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 426:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 431:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 439:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 444:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 452:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 457:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 462:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 470:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 475:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 480:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 488:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 493:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 501:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 506:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 514:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 519:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 524:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 532:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 537:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 545:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 562:5:   Nested block is redundant                            no-lone-blocks
+
+webpack compiled with 3 warnings
+Compiling...
+Compiled with warnings.
+
+Warning
+(6:29521) autoprefixer: Replace color-adjust to print-color-adjust. The color-adjust shorthand is currently deprecated.
+
+Warning
+(2491:11) autoprefixer: Replace color-adjust to print-color-adjust. The color-adjust shorthand is currently deprecated.
+
+src/components/Page/BatchInstall.js
+  Line 8:8:    'axios' is defined but never used    no-unused-vars
+  Line 12:8:   '$' is defined but never used        no-unused-vars
+  Line 16:36:  Expected '===' and instead saw '=='  eqeqeq
+  Line 16:84:  Expected '===' and instead saw '=='  eqeqeq
+
+src/components/Page/BatchInstallSecu.js
+  Line 8:8:    'axios' is defined but never used    no-unused-vars
+  Line 12:8:   '$' is defined but never used        no-unused-vars
+  Line 15:49:  Expected '===' and instead saw '=='  eqeqeq
+
+src/components/Page/LoginPage.js
+  Line 9:10:    'format' is defined but never used                   no-unused-vars
+  Line 12:8:    'Dashboard' is defined but never used                no-unused-vars
+  Line 188:10:  'url_group17' is defined but never used              no-unused-vars
+  Line 328:21:  Expected '===' and instead saw '=='                  eqeqeq
+  Line 358:28:  Expected '===' and instead saw '=='                  eqeqeq
+  Line 375:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 382:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 387:14:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 392:14:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 421:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 426:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 431:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 439:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 444:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 452:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 457:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 462:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 470:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 475:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 480:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 488:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 493:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 501:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 506:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 515:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 521:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 529:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 534:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 542:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 559:5:   Nested block is redundant                            no-lone-blocks
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in ./node_modules/bootstrap/dist/css/bootstrap.min.css (./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[1].oneOf[5].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[1].oneOf[5].use[2]!./node_modules/source-map-loader/dist/cjs.js!./node_modules/bootstrap/dist/css/bootstrap.min.css)
+Module Warning (from ./node_modules/postcss-loader/dist/cjs.js):
+Warning
+
+(6:29521) autoprefixer: Replace color-adjust to print-color-adjust. The color-adjust shorthand is currently deprecated.
+
+WARNING in ./src/components/style.css (./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[1].oneOf[5].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[1].oneOf[5].use[2]!./node_modules/source-map-loader/dist/cjs.js!./src/components/style.css)
+Module Warning (from ./node_modules/postcss-loader/dist/cjs.js):
+Warning
+
+(2491:11) autoprefixer: Replace color-adjust to print-color-adjust. The color-adjust shorthand is currently deprecated.
+
+WARNING in src/components/Page/BatchInstall.js
+  Line 8:8:    'axios' is defined but never used    no-unused-vars
+  Line 12:8:   '$' is defined but never used        no-unused-vars
+  Line 16:36:  Expected '===' and instead saw '=='  eqeqeq
+  Line 16:84:  Expected '===' and instead saw '=='  eqeqeq
+
+src/components/Page/BatchInstallSecu.js
+  Line 8:8:    'axios' is defined but never used    no-unused-vars
+  Line 12:8:   '$' is defined but never used        no-unused-vars
+  Line 15:49:  Expected '===' and instead saw '=='  eqeqeq
+
+src/components/Page/LoginPage.js
+  Line 9:10:    'format' is defined but never used                   no-unused-vars
+  Line 12:8:    'Dashboard' is defined but never used                no-unused-vars
+  Line 188:10:  'url_group17' is defined but never used              no-unused-vars
+  Line 328:21:  Expected '===' and instead saw '=='                  eqeqeq
+  Line 358:28:  Expected '===' and instead saw '=='                  eqeqeq
+  Line 375:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 382:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 387:14:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 392:14:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 421:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 426:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 431:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 439:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 444:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 452:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 457:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 462:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 470:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 475:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 480:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 488:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 493:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 501:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 506:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 515:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 521:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 529:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 534:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 542:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 559:5:   Nested block is redundant                            no-lone-blocks
+
+webpack compiled with 3 warnings
+Compiling...
+Compiled with warnings.
+
+Warning
+(6:29521) autoprefixer: Replace color-adjust to print-color-adjust. The color-adjust shorthand is currently deprecated.
+
+Warning
+(2491:11) autoprefixer: Replace color-adjust to print-color-adjust. The color-adjust shorthand is currently deprecated.
+
+src/components/Page/BatchInstall.js
+  Line 8:8:    'axios' is defined but never used    no-unused-vars
+  Line 12:8:   '$' is defined but never used        no-unused-vars
+  Line 16:36:  Expected '===' and instead saw '=='  eqeqeq
+  Line 16:84:  Expected '===' and instead saw '=='  eqeqeq
+
+src/components/Page/BatchInstallSecu.js
+  Line 8:8:    'axios' is defined but never used    no-unused-vars
+  Line 12:8:   '$' is defined but never used        no-unused-vars
+  Line 15:49:  Expected '===' and instead saw '=='  eqeqeq
+
+src/components/Page/LoginPage.js
+  Line 9:10:    'format' is defined but never used                   no-unused-vars
+  Line 12:8:    'Dashboard' is defined but never used                no-unused-vars
+  Line 188:10:  'url_group17' is defined but never used              no-unused-vars
+  Line 328:21:  Expected '===' and instead saw '=='                  eqeqeq
+  Line 358:28:  Expected '===' and instead saw '=='                  eqeqeq
+  Line 375:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 382:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 387:14:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 392:14:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 421:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 426:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 431:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 439:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 444:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 452:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 457:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 462:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 470:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 475:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 480:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 488:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 493:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 501:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 506:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 515:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 521:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 529:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 534:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 542:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 559:5:   Nested block is redundant                            no-lone-blocks
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in ./node_modules/bootstrap/dist/css/bootstrap.min.css (./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[1].oneOf[5].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[1].oneOf[5].use[2]!./node_modules/source-map-loader/dist/cjs.js!./node_modules/bootstrap/dist/css/bootstrap.min.css)
+Module Warning (from ./node_modules/postcss-loader/dist/cjs.js):
+Warning
+
+(6:29521) autoprefixer: Replace color-adjust to print-color-adjust. The color-adjust shorthand is currently deprecated.
+
+WARNING in ./src/components/style.css (./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[1].oneOf[5].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[1].oneOf[5].use[2]!./node_modules/source-map-loader/dist/cjs.js!./src/components/style.css)
+Module Warning (from ./node_modules/postcss-loader/dist/cjs.js):
+Warning
+
+(2491:11) autoprefixer: Replace color-adjust to print-color-adjust. The color-adjust shorthand is currently deprecated.
+
+WARNING in src/components/Page/BatchInstall.js
+  Line 8:8:    'axios' is defined but never used    no-unused-vars
+  Line 12:8:   '$' is defined but never used        no-unused-vars
+  Line 16:36:  Expected '===' and instead saw '=='  eqeqeq
+  Line 16:84:  Expected '===' and instead saw '=='  eqeqeq
+
+src/components/Page/BatchInstallSecu.js
+  Line 8:8:    'axios' is defined but never used    no-unused-vars
+  Line 12:8:   '$' is defined but never used        no-unused-vars
+  Line 15:49:  Expected '===' and instead saw '=='  eqeqeq
+
+src/components/Page/LoginPage.js
+  Line 9:10:    'format' is defined but never used                   no-unused-vars
+  Line 12:8:    'Dashboard' is defined but never used                no-unused-vars
+  Line 188:10:  'url_group17' is defined but never used              no-unused-vars
+  Line 328:21:  Expected '===' and instead saw '=='                  eqeqeq
+  Line 358:28:  Expected '===' and instead saw '=='                  eqeqeq
+  Line 375:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 382:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 387:14:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 392:14:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 421:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 426:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 431:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 439:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 444:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 452:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 457:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 462:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 470:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 475:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 480:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 488:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 493:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 501:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 506:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 515:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 521:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 529:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 534:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 542:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 559:5:   Nested block is redundant                            no-lone-blocks
+
+webpack compiled with 3 warnings
+Compiling...
+Compiled with warnings.
+
+Warning
+(6:29521) autoprefixer: Replace color-adjust to print-color-adjust. The color-adjust shorthand is currently deprecated.
+
+Warning
+(2491:11) autoprefixer: Replace color-adjust to print-color-adjust. The color-adjust shorthand is currently deprecated.
+
+src/components/Page/BatchInstall.js
+  Line 8:8:    'axios' is defined but never used    no-unused-vars
+  Line 12:8:   '$' is defined but never used        no-unused-vars
+  Line 16:36:  Expected '===' and instead saw '=='  eqeqeq
+  Line 16:84:  Expected '===' and instead saw '=='  eqeqeq
+
+src/components/Page/BatchInstallSecu.js
+  Line 8:8:    'axios' is defined but never used    no-unused-vars
+  Line 12:8:   '$' is defined but never used        no-unused-vars
+  Line 15:49:  Expected '===' and instead saw '=='  eqeqeq
+
+src/components/Page/LoginPage.js
+  Line 9:10:    'format' is defined but never used                   no-unused-vars
+  Line 12:8:    'Dashboard' is defined but never used                no-unused-vars
+  Line 188:10:  'url_group17' is defined but never used              no-unused-vars
+  Line 328:21:  Expected '===' and instead saw '=='                  eqeqeq
+  Line 358:28:  Expected '===' and instead saw '=='                  eqeqeq
+  Line 375:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 382:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 387:14:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 392:14:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 421:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 426:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 431:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 439:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 444:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 452:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 457:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 462:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 470:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 475:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 480:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 488:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 493:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 501:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 506:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 515:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 521:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 529:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 534:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 542:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 559:5:   Nested block is redundant                            no-lone-blocks
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in ./node_modules/bootstrap/dist/css/bootstrap.min.css (./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[1].oneOf[5].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[1].oneOf[5].use[2]!./node_modules/source-map-loader/dist/cjs.js!./node_modules/bootstrap/dist/css/bootstrap.min.css)
+Module Warning (from ./node_modules/postcss-loader/dist/cjs.js):
+Warning
+
+(6:29521) autoprefixer: Replace color-adjust to print-color-adjust. The color-adjust shorthand is currently deprecated.
+
+WARNING in ./src/components/style.css (./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[1].oneOf[5].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[1].oneOf[5].use[2]!./node_modules/source-map-loader/dist/cjs.js!./src/components/style.css)
+Module Warning (from ./node_modules/postcss-loader/dist/cjs.js):
+Warning
+
+(2491:11) autoprefixer: Replace color-adjust to print-color-adjust. The color-adjust shorthand is currently deprecated.
+
+WARNING in src/components/Page/BatchInstall.js
+  Line 8:8:    'axios' is defined but never used    no-unused-vars
+  Line 12:8:   '$' is defined but never used        no-unused-vars
+  Line 16:36:  Expected '===' and instead saw '=='  eqeqeq
+  Line 16:84:  Expected '===' and instead saw '=='  eqeqeq
+
+src/components/Page/BatchInstallSecu.js
+  Line 8:8:    'axios' is defined but never used    no-unused-vars
+  Line 12:8:   '$' is defined but never used        no-unused-vars
+  Line 15:49:  Expected '===' and instead saw '=='  eqeqeq
+
+src/components/Page/LoginPage.js
+  Line 9:10:    'format' is defined but never used                   no-unused-vars
+  Line 12:8:    'Dashboard' is defined but never used                no-unused-vars
+  Line 188:10:  'url_group17' is defined but never used              no-unused-vars
+  Line 328:21:  Expected '===' and instead saw '=='                  eqeqeq
+  Line 358:28:  Expected '===' and instead saw '=='                  eqeqeq
+  Line 375:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 382:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 387:14:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 392:14:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 421:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 426:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 431:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 439:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 444:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 452:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 457:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 462:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 470:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 475:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 480:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 488:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 493:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 501:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 506:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 515:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 521:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 529:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 534:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 542:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 559:5:   Nested block is redundant                            no-lone-blocks
+
+webpack compiled with 3 warnings
+Compiling...
+Compiled with warnings.
+
+Warning
+(6:29521) autoprefixer: Replace color-adjust to print-color-adjust. The color-adjust shorthand is currently deprecated.
+
+Warning
+(2491:11) autoprefixer: Replace color-adjust to print-color-adjust. The color-adjust shorthand is currently deprecated.
+
+src/components/Page/BatchInstall.js
+  Line 8:8:    'axios' is defined but never used    no-unused-vars
+  Line 12:8:   '$' is defined but never used        no-unused-vars
+  Line 16:36:  Expected '===' and instead saw '=='  eqeqeq
+  Line 16:84:  Expected '===' and instead saw '=='  eqeqeq
+
+src/components/Page/BatchInstallSecu.js
+  Line 8:8:    'axios' is defined but never used    no-unused-vars
+  Line 12:8:   '$' is defined but never used        no-unused-vars
+  Line 15:49:  Expected '===' and instead saw '=='  eqeqeq
+
+src/components/Page/LoginPage.js
+  Line 9:10:    'format' is defined but never used                   no-unused-vars
+  Line 12:8:    'Dashboard' is defined but never used                no-unused-vars
+  Line 188:10:  'url_group17' is defined but never used              no-unused-vars
+  Line 328:21:  Expected '===' and instead saw '=='                  eqeqeq
+  Line 358:28:  Expected '===' and instead saw '=='                  eqeqeq
+  Line 375:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 382:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 387:14:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 392:14:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 421:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 426:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 431:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 439:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 444:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 452:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 457:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 462:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 470:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 475:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 480:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 488:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 493:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 501:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 506:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 515:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 521:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 529:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 534:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 542:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 559:5:   Nested block is redundant                            no-lone-blocks
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in ./node_modules/bootstrap/dist/css/bootstrap.min.css (./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[1].oneOf[5].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[1].oneOf[5].use[2]!./node_modules/source-map-loader/dist/cjs.js!./node_modules/bootstrap/dist/css/bootstrap.min.css)
+Module Warning (from ./node_modules/postcss-loader/dist/cjs.js):
+Warning
+
+(6:29521) autoprefixer: Replace color-adjust to print-color-adjust. The color-adjust shorthand is currently deprecated.
+
+WARNING in ./src/components/style.css (./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[1].oneOf[5].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[1].oneOf[5].use[2]!./node_modules/source-map-loader/dist/cjs.js!./src/components/style.css)
+Module Warning (from ./node_modules/postcss-loader/dist/cjs.js):
+Warning
+
+(2491:11) autoprefixer: Replace color-adjust to print-color-adjust. The color-adjust shorthand is currently deprecated.
+
+WARNING in src/components/Page/BatchInstall.js
+  Line 8:8:    'axios' is defined but never used    no-unused-vars
+  Line 12:8:   '$' is defined but never used        no-unused-vars
+  Line 16:36:  Expected '===' and instead saw '=='  eqeqeq
+  Line 16:84:  Expected '===' and instead saw '=='  eqeqeq
+
+src/components/Page/BatchInstallSecu.js
+  Line 8:8:    'axios' is defined but never used    no-unused-vars
+  Line 12:8:   '$' is defined but never used        no-unused-vars
+  Line 15:49:  Expected '===' and instead saw '=='  eqeqeq
+
+src/components/Page/LoginPage.js
+  Line 9:10:    'format' is defined but never used                   no-unused-vars
+  Line 12:8:    'Dashboard' is defined but never used                no-unused-vars
+  Line 188:10:  'url_group17' is defined but never used              no-unused-vars
+  Line 328:21:  Expected '===' and instead saw '=='                  eqeqeq
+  Line 358:28:  Expected '===' and instead saw '=='                  eqeqeq
+  Line 375:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 382:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 387:14:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 392:14:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 421:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 426:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 431:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 439:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 444:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 452:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 457:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 462:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 470:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 475:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 480:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 488:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 493:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 501:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 506:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 515:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 521:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 529:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 534:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 542:13:  <iframe> elements must have a unique title property  jsx-a11y/iframe-has-title
+  Line 559:5:   Nested block is redundant                            no-lone-blocks
+
+webpack compiled with 3 warnings
